@@ -1,3 +1,4 @@
+```
 import matplotlib.pyplot as plt
 import numpy as np
 import random
@@ -44,3 +45,5 @@ plt.plot(x, y, 'ro', label='Original data')
 plt.plot(x, y_predicted, label='Fitted line')
 plt.legend()
 plt.show()
+```
+> 參考同學的程式，再進行整理
