@@ -64,4 +64,4 @@ setup(
 # 參考資料
 # 背景知識及程式實作
 # https://buzzorange.com/techorange/2018/02/07/2017-github-top30-machine-learning-project/
-# https://github.com/ageitgey/face_recognition * setup.py程式碼
+# 我的程式是修改自 github https://github.com/ageitgey/face_recognition * setup.py專案的程式碼
